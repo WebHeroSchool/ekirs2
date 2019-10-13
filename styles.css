@@ -2,6 +2,12 @@ body
 {
 	width: 650px;
 }
+
+section,header
+{
+	background-color: #FFCCFF;
+	padding: 10px;
+}
 h1, h2
 {
 	color:red;
