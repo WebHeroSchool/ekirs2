@@ -16,18 +16,17 @@ h1, h2
 	font-family: arial;
 }
 
-aside 
+img 
 {
-	padding: 10px;
-	width: 200px;
+	width: 250px;
 	float: left;
+	padding:10px;
 }
 
 article 
 {
-	margin-left: 340px;
 	display: block;
-	padding-top: 1px;
+	padding-top:5px;
 }
 
 .question
