@@ -1,0 +1,38 @@
+body
+{
+	width: 650px;
+}
+h1, h2
+{
+	color:red;
+	text-align:right;
+	margin-bottom: -10px;
+	font-family: arial;
+}
+
+aside 
+{
+	padding: 10px;
+	width: 200px;
+	float: left;
+}
+
+article 
+{
+	margin-left: 340px;
+	display: block;
+	padding-top: 1px;
+}
+
+.question
+{
+	color:red;
+	font-size: x-small;
+}
+
+.answer
+{
+	margin-top:-10px;
+	font-size: x-small;
+}
+
