@@ -1,6 +1,7 @@
 body
 {
 	width: 650px;
+	font-family: 'Rubik', sans-serif;
 }
 
 section,header
@@ -13,7 +14,7 @@ h1, h2
 	color:red;
 	text-align:right;
 	margin-bottom: -10px;
-	font-family: arial;
+	font-family: 'Modak', cursive;
 }
 
 img 
